@@ -1,6 +1,4 @@
 # :wave: The Basics of GitHub
-John Truitt
-
 
 ## 🤓 Course overview and learning outcomes
 
